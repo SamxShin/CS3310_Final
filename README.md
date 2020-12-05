@@ -9,7 +9,9 @@ Input: 2, -8, 3, -2, 4, -10
 Output: 5    which is the sequence [3, -2, 4]
 
 This solution can be found in the file named "ContiguousLargestSum.java"
+
 Time Complexity:  O(n)
+
 Space Complexity: O(1)
 
 
@@ -18,7 +20,9 @@ Space Complexity: O(1)
 2. Given 2 very large binary trees T1 and T2. Create an algorithm to deter-mine if T2 is a subtree of T1. Assume T1 is always much larger than T2
 
 This solution can be found in the file named "SubTreeProblem.java"
+
 Time Complexity:    O(n * m)
+
 Space Complexity:   O(log(n) + log(m))
 
 
